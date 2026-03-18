@@ -1,4 +1,5 @@
 SQL Data Analytics Project
+
 This project demonstrates how SQL is used by data analysts to explore data, generate business insights, and answer real-world analytical questions.
 
 The project uses a sales dataset structured in a star schema with a fact table and dimension tables. Through a series of SQL scripts, the project walks through common analytics tasks performed by business intelligence and data analysts.
